@@ -1,3 +1,5 @@
+//povsod so namesto premic misljene daljice
+
 import java.util.ArrayList;
 import java.util.List;
 
